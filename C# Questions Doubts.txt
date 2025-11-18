@@ -1,0 +1,3 @@
+1. What's an actual difference between like passing an arguments in an array and using params keyword ?
+2. Why object type calling is different from simple call ?
+3. String are thread safe but stringbuilder is not
