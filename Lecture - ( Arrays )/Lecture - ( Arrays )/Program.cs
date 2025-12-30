@@ -23,6 +23,13 @@ namespace ABC
             int[,] d = new int[3, 4] { { 44, 12 }, { 66,19} };
             int[,,] _d = new int[3, 4,6];
 
+            //Jagged Arrays means inside a single array there's one more array ( Arrays of an array )
+            int[][] arr =
+            {
+                new int[]{43,199},
+                new int[]{88,10}
+            };
+
         }
     }
 }
