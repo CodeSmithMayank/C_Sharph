@@ -19,8 +19,8 @@ namespace ABC
             /*Third Way*/
             int[] c = { 219, 100, 21, 6 };
 
-            //Declaration for 2-D
-            int[,] d = new int[3, 4];
+            //Declaration for 2-D & 3-D & u can pass elements like this too . Its also known as recntangular array
+            int[,] d = new int[3, 4] { { 44, 12 }, { 66,19} };
             int[,,] _d = new int[3, 4,6];
 
         }

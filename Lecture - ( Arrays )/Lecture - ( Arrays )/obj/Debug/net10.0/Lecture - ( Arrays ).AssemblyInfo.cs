@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - ( Arrays )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30acf4de0a6fbd7c90681bee45f598e531213e3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2daab1c309c688ac7c703900e6e18a380773b83e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - ( Arrays )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - ( Arrays )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
