@@ -14,7 +14,7 @@ namespace Params_Keyword
             return s;
         }
 
-        //This is not allowed after params keyword , no other argument is alowed whether its of same type or of different type
+        //This is not allowed after params keyword , no other argument is alowed whether its of same type or of different type but yeah before it u can passed
         //public static void M1(params string[] arg, int no)
         //{
 
